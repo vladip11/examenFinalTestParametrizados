@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="10" passed="10">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="69193" started-at="2021-02-12T03:27:15Z" finished-at="2021-02-12T03:28:25Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="69193" started-at="2021-02-12T03:27:15Z" finished-at="2021-02-12T03:28:25Z">
+      <class name="NewSeleneseIT">
+        <test-method status="PASS" signature="test1Add()[pri:0, instance:test1Add(NewSeleneseIT)]" name="test1Add" duration-ms="7914" started-at="2021-02-11T23:27:25Z" finished-at="2021-02-11T23:27:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1Add -->
+        <test-method status="PASS" signature="test2Subtract()[pri:0, instance:test2Subtract(NewSeleneseIT)]" name="test2Subtract" duration-ms="5732" started-at="2021-02-11T23:27:33Z" finished-at="2021-02-11T23:27:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2Subtract -->
+        <test-method status="PASS" signature="test3Multiply()[pri:0, instance:test3Multiply(NewSeleneseIT)]" name="test3Multiply" duration-ms="6655" started-at="2021-02-11T23:27:39Z" finished-at="2021-02-11T23:27:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3Multiply -->
+        <test-method status="PASS" signature="test4Divide()[pri:0, instance:test4Divide(NewSeleneseIT)]" name="test4Divide" duration-ms="6673" started-at="2021-02-11T23:27:46Z" finished-at="2021-02-11T23:27:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4Divide -->
+        <test-method status="PASS" signature="test5ClearSimple()[pri:0, instance:test5ClearSimple(NewSeleneseIT)]" name="test5ClearSimple" duration-ms="2209" started-at="2021-02-11T23:27:52Z" finished-at="2021-02-11T23:27:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test5ClearSimple -->
+        <test-method status="PASS" signature="test6Fibonacci()[pri:0, instance:test6Fibonacci(NewSeleneseIT)]" name="test6Fibonacci" duration-ms="4471" started-at="2021-02-11T23:27:55Z" finished-at="2021-02-11T23:27:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test6Fibonacci -->
+        <test-method status="PASS" signature="test7Factorial()[pri:0, instance:test7Factorial(NewSeleneseIT)]" name="test7Factorial" duration-ms="4483" started-at="2021-02-11T23:27:59Z" finished-at="2021-02-11T23:28:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test7Factorial -->
+        <test-method status="PASS" signature="test8Sqrt()[pri:0, instance:test8Sqrt(NewSeleneseIT)]" name="test8Sqrt" duration-ms="4474" started-at="2021-02-11T23:28:03Z" finished-at="2021-02-11T23:28:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test8Sqrt -->
+        <test-method status="PASS" signature="test90Power()[pri:0, instance:test90Power(NewSeleneseIT)]" name="test90Power" duration-ms="4440" started-at="2021-02-11T23:28:08Z" finished-at="2021-02-11T23:28:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test90Power -->
+        <test-method status="PASS" signature="test91ClearAdvanced()[pri:0, instance:test91ClearAdvanced(NewSeleneseIT)]" name="test91ClearAdvanced" duration-ms="2309" started-at="2021-02-11T23:28:12Z" finished-at="2021-02-11T23:28:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test91ClearAdvanced -->
+      </class> <!-- NewSeleneseIT -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
